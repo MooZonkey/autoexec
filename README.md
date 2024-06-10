@@ -9,5 +9,7 @@ https://github.com/quickkennedy/quakehud
 MODS:
 
 no hats bgum: https://pevhs.ch/tf2/
+
 cleanTF2plus: https://github.com/JarateKing/CleanTF2plus
+
 visual fix  : https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack
