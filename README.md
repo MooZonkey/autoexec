@@ -13,3 +13,6 @@ no hats bgum: https://pevhs.ch/tf2/
 cleanTF2plus: https://github.com/JarateKing/CleanTF2plus
 
 visual fix  : https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack
+
+less distracting explosions: https://gamebanana.com/mods/12444
+
