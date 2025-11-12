@@ -1,4 +1,4 @@
-I have been working on this project for a long time now. There isn't much else I can add or change to improve things furhter. 
+I have been working on this project for a long time now. 
 This readme section will serve as a repository for my perosnal favorite configuration changes to TF2. 
 
 
