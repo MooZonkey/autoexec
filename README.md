@@ -3,7 +3,7 @@ If you are experiencing network issues, please download and use one of the suppl
 https://github.com/MooZonkey/autoexec-supplementary-scripts
 
 
-Keep in mind that two networking modules cannot be executed at once. Using more than 1 of the networking modules will result in the cvars (settings) being overridden by whichever script executes last. 
+Keep in mind that two networking modules cannot be executed at once. Using more than 1 of the networking modules will result in the cvars (settings) being overwritten by whichever script executes last. 
 Retain only the desired networking module. Delete the other one(s). 
 
 
